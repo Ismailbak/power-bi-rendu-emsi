@@ -1,0 +1,6 @@
+ID_Paiement,ID_Etudiant,Date_Paiement,Montant_Paye,Mode_Paiement,Montant_Attendu,Solde_Restant
+30001,1,15/10/2024,15000,Virement,45000,30000
+30002,2,16/10/2024,42000,Chèque,42000,0
+30003,3,18/10/2024,20000,Virement,45000,25000
+30004,4,20/10/2024,10000,Espèces,38000,28000
+30005,5,22/10/2024,43000,Virement,43000,0

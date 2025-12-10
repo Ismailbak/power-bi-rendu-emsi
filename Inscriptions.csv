@@ -1,0 +1,6 @@
+ID_Inscription,ID_Etudiant,ID_Filiere,Date_Inscription,Type_Inscription,Montant_Annuel,Annee_Universitaire
+10001,1,1,15/09/2024,Réinscription,45000,2024-2025
+10002,2,2,16/09/2024,Nouvelle,42000,2024-2025
+10003,3,1,15/09/2024,Réinscription,45000,2024-2025
+10004,4,4,17/09/2024,Nouvelle,38000,2024-2025
+10005,5,3,18/09/2024,Nouvelle,43000,2024-2025

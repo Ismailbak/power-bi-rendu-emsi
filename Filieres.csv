@@ -1,0 +1,6 @@
+ID_Filiere,Code_Filiere,Nom_Filiere,Departement,Tarif_Annuel
+1,GI,Génie Informatique,Informatique,45000
+2,GC,Génie Civil,BTP,42000
+3,GIND,Génie Industriel,Industrie,43000
+4,FIN,Finance,Gestion,38000
+5,MKT,Marketing,Gestion,36000
